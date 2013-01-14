@@ -17,7 +17,7 @@ alias dr="cd ~/Documents/Dropbox"
 ### Personal Fav Shortcuts
 alias b="cd ~/Documents/_Berkeley"
 alias b1="cd ~/Documents/_Berkeley/sem1/"
-alias b1="cd ~/Documents/_Berkeley/sem2/"
+alias b2="cd ~/Documents/_Berkeley/sem2/"
 
 alias p="cd ~/Documents/_Projects"
 alias pa="cd ~/Documents/_Projects/Acrowit"
