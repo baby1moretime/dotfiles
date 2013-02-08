@@ -1,6 +1,12 @@
 # Add `~/bin` to the `$PATH`
 export PATH="$HOME/bin:$PATH"
 
+# Setting PATH for EPD_free-7.3-1
+export PATH="/Library/Frameworks/Python.framework/Versions/Current/bin:$PATH"
+
+# for R Studio
+export TERM=xterm-color
+
 # Load the shell dotfiles, and then some:
 # * ~/.path can be used to extend `$PATH`.
 # * ~/.extra can be used for other settings you don’t want to commit.
