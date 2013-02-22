@@ -1,6 +1,12 @@
 # Add `~/bin` to the `$PATH`
 export PATH="$HOME/bin:$PATH"
 
+# Add JAVA_HOME to $PATH
+export JAVA_HOME=/usr
+
+# Adding Pig location to PATH
+export PATH="$HOME/Softwares/Pig/pig-0.11.0/bin:$PATH"
+
 # Setting PATH for EPD_free-7.3-1
 export PATH="/Library/Frameworks/Python.framework/Versions/Current/bin:$PATH"
 
