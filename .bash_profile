@@ -10,6 +10,9 @@ export PATH="$HOME/Softwares/Pig/pig-0.11.0/bin:$PATH"
 # Setting PATH for EPD_free-7.3-1
 export PATH="/Library/Frameworks/Python.framework/Versions/Current/bin:$PATH"
 
+# Setting PATH for htdocs
+export PATH="/Applications/XAMPP/xamppfiles/htdocs/:$PATH"
+
 # for R Studio
 export TERM=xterm-color
 
