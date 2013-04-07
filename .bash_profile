@@ -13,6 +13,9 @@ export PATH="/Library/Frameworks/Python.framework/Versions/Current/bin:$PATH"
 # Setting PATH for htdocs
 export PATH="/Applications/XAMPP/xamppfiles/htdocs/:$PATH"
 
+# Setting PATH to s3cmd
+export PATH="/Users/Shreyas/Documents/_WorkSpace/AWS/S3/s3cmd-1.5.0-alpha1:$PATH"
+
 # for R Studio
 export TERM=xterm-color
 
