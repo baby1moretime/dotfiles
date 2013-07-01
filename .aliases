@@ -7,10 +7,23 @@ alias ~="cd ~" # `cd` is probably faster to type though
 alias -- -="cd -"
 
 # Shortcuts
-alias d="cd ~/Documents/Dropbox"
+
+### System Shortcuts
+alias d="cd ~/Documents/"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
-alias p="cd ~/Projects"
+alias dr="cd ~/Documents/Dropbox"
+
+### Personal Fav Shortcuts
+alias b="cd ~/Documents/_Berkeley"
+alias b1="cd ~/Documents/_Berkeley/sem1/"
+alias b2="cd ~/Documents/_Berkeley/sem2/"
+
+alias p="cd ~/Documents/_Projects"
+alias pa="cd ~/Documents/_Projects/Acrowit"
+
+alias st="cd ~/Settings/"
+
 alias g="git"
 alias h="history"
 alias j="jobs"
