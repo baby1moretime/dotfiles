@@ -20,14 +20,12 @@ alias b1="cd ~/Documents/_Berkeley/sem1/"
 alias b2="cd ~/Documents/_Berkeley/sem2/"
 alias b3="cd ~/Documents/_Berkeley/sem3/"
 
-### iRODS settings
-alias irodsctl="~/Documents/_Berkeley/summer/digging_into_data/iRods/_packages/iRODS/irodsctl"
-alias irodsupgrade="/Users/Shreyas/Documents/_Berkeley/summer/digging_into_data/iRods/_packages/iRODS/irodsupgrade"
 
 alias p="cd ~/Documents/_Projects"
-alias pa="cd ~/Documents/_Projects/Acrowit"
+alias w="cd ~/Documents/_WorkSpace"
 
-alias st="cd ~/Settings/"
+alias c="clear"
+
 
 alias g="git"
 alias h="history"
