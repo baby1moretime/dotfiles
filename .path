@@ -10,4 +10,4 @@ export EC2_HOME="$HOME/AWS/ec2-api-tools-1.6.10.0"
 export PATH=$PATH:$EC2_HOME/bin
 
 # Postgres
-PATH="/Applications/Postgres.app/Contents/MacOS/bin:$PATH"
+PATH="/Applications/Postgres93.app/Contents/MacOS/bin:$PATH"
