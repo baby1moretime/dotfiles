@@ -11,6 +11,3 @@ GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
 git config --global user.email "$GIT_AUTHOR_EMAIL"
 
 git config --global push.default current
-
-export AWS_ACCESS_KEY=AKIAJPD72LUK3F3IBFAQ
-export AWS_SECRET_KEY=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

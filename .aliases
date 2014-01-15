@@ -19,12 +19,12 @@ alias b="cd ~/Documents/_Berkeley"
 alias b1="cd ~/Documents/_Berkeley/sem1/"
 alias b2="cd ~/Documents/_Berkeley/sem2/"
 alias b3="cd ~/Documents/_Berkeley/sem3/"
+alias b4="cd ~/Documents/_Berkeley/sem4/"
 
 
 alias p="cd ~/Documents/_Projects"
 alias w="cd ~/Documents/_WorkSpace"
 
-alias c="clear"
 
 
 alias g="git"
