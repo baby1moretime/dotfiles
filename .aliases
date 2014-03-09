@@ -26,6 +26,7 @@ alias p="cd ~/Documents/_Projects"
 alias w="cd ~/Documents/_WorkSpace"
 
 alias xampp="/Applications/XAMPP/xamppfiles/xampp"
+alias htdocs="/Applications/XAMPP/xamppfiles/htdocs"
 
 alias g="git"
 alias h="history"
