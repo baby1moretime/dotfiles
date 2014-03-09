@@ -25,7 +25,7 @@ alias b4="cd ~/Documents/_Berkeley/sem4/"
 alias p="cd ~/Documents/_Projects"
 alias w="cd ~/Documents/_WorkSpace"
 
-
+alias xampp="/Applications/XAMPP/xamppfiles/xampp"
 
 alias g="git"
 alias h="history"
