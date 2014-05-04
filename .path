@@ -11,7 +11,7 @@ export PATH=$PATH:$EC2_HOME/bin
 
 
 # EMR tools
-export PATH=$PATH:/Users/shreyas/AWS/elastic-mapreduce-ruby/elastic-mapreduce
+export PATH=$PATH:/Users/shreyas/AWS/elastic-mapreduce-ruby/
 
 
 # Postgres
