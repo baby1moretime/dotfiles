@@ -16,25 +16,18 @@ alias dr="cd ~/Documents/Dropbox"
 
 ### Personal Fav Shortcuts
 alias b="cd ~/Documents/_Berkeley"
-alias b1="cd ~/Documents/_Berkeley/sem1/"
-alias b2="cd ~/Documents/_Berkeley/sem2/"
-alias b3="cd ~/Documents/_Berkeley/sem3/"
-alias b4="cd ~/Documents/_Berkeley/sem4/"
-
-
-alias p="cd ~/Documents/_Projects"
 alias w="cd ~/Documents/_WorkSpace"
 alias htd="cd /Applications/XAMPP/xamppfiles/htdocs"
 
 alias xampp="/Applications/XAMPP/xamppfiles/xampp"
-alias s3cmd="~/s3cmd-1.5.0-beta1/s3cmd"
+alias s3cmd="/Users/shreyas/AWS/s3cmd"
 
 alias g="git"
 alias h="history"
 alias j="jobs"
 alias v="vim"
 alias m="mate ."
-alias s="sl ."
+alias sl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 alias o="open"
 alias oo="open ."
 
