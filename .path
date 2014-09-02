@@ -6,7 +6,7 @@ export PATH="/Users/shreyas/anaconda/bin:$PATH"
 export JAVA_HOME="/usr"
 
 # EC2 Tools
-export EC2_HOME="$HOME/AWS/ec2-api-tools-1.6.10.0"
+export EC2_HOME="$HOME/AWS/ec2-api-tools"
 export PATH=$PATH:$EC2_HOME/bin
 
 
