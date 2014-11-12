@@ -31,6 +31,8 @@ alias sl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 alias o="open"
 alias oo="open ."
 
+alias s3cmd="~/AWS/s3cmd/s3cmd-1.5.0-rc1/s3cmd"
+
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
 	colorflag="--color"
