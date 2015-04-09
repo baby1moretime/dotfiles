@@ -24,3 +24,5 @@ export PATH=${PATH}:~/Documents/_WorkSpace/Android/adt-bundle/sdk/platform-tools
 export PATH=${PATH}:/usr/local/mysql/bin
 export DYLD_LIBRARY_PATH=/usr/local/mysql/lib/
 
+# Bitbucket Dev
+export PATH=${PATH}:/usr/local/sbin:/usr/local/share/npm/bin
